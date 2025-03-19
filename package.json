@@ -37,8 +37,5 @@
     "testPathIgnorePatterns": [
       "generators/"
     ]
-  },
-  "dependencies": {
-    "npm": "^11.2.0"
   }
 }
